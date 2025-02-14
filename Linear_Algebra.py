@@ -23,7 +23,6 @@ a = np.array([list(map(float,input().split(" "))) for _ in range(n)])
 print(round(np.linalg.det(a),2))
 
 # Sample Input
-
 # 2
 # 1.1 1.1
 # 1.1 1.1
